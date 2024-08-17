@@ -17,7 +17,7 @@ public class DemoApplication implements CommandLineRunner{
 	}
 	@Override
 	public void run(String... args) throws Exception {
-		logger.info("its my second logger")
+		logger.info("its my second logger");
 		
 	}
 
